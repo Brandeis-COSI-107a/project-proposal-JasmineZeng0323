@@ -1,5 +1,4 @@
-# Practical Application of Cybersecurity:
-# Phishing Website Investigation Using Kali Linux
+# Practical Application of Cybersecurity: Phishing Website Investigation Using Kali Linux
 
 # 1. Overview of the Topic and Plan:
 
